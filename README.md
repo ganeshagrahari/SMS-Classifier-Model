@@ -64,7 +64,9 @@ pip install streamlit scikit-learn nltk pickle-mixin
 ├── 📜 sms-spam-detection.ipynb # Jupyter Notebook for model training
 ├── 📜 model.pkl              # Trained Machine Learning model
 ├── 📜 vectorizer.pkl         # TF-IDF Vectorizer
-├── 📜 README.md              # Documentation
+├── 📜 README.md
+├── 📜 spam.csv              # excel data
+
 ```
 
 ---
